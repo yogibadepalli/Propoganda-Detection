@@ -5,3 +5,5 @@ The main objectives of this report are to:
 • Build and assess models for classifying specific propaganda techniques in text spans.
 • Compare the effectiveness of different approaches for each task.
 • Analyse the errors made by the models and identify potential areas for improvement
+
+Toold/Tech: Python, NUmpy, Pandas, Scipy, GPU, Tranfomer models, JUpyter notebook.
