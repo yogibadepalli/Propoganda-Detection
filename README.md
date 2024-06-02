@@ -6,4 +6,4 @@ The main objectives of this report are to:
 • Compare the effectiveness of different approaches for each task.
 • Analyse the errors made by the models and identify potential areas for improvement
 
-Toold/Tech: Python, NUmpy, Pandas, Scipy, GPU, Tranfomer models, JUpyter notebook.
+Tools/Tech: Python, Numpy, Pandas, Scipy, GPU, Transfomer models, Jupyter notebook.
